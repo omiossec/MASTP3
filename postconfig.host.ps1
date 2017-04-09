@@ -6,12 +6,6 @@
     Configure and register the host 
     Use Subscription ID,  
 
-    .EXAMPLE
-    $Path = Get-ASArtifactPath -NugetName "Microsoft.Diagnostics.Tracing.EventSource.Redist"
-
-    .PARAMETER NugetName
-    The full name of the nuget without version information.
-
     #>
 
     #requires -RunAsAdministrator
